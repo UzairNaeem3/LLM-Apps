@@ -50,5 +50,3 @@ Replace your_api_key_here with the API key you obtained.
 2. Run the notebook cells sequentially to execute the summarization script.
 3. Review the output for the summarized content of "Crime and Punishment."
 
-## Note
-
